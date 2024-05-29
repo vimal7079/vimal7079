@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Vimalk2629@gmail.com**
+- 📫 How to reach me **vimalk2629@gmail.com**
 
 - ⚡ Fun fact **Adventure Seeker**
 
